@@ -1,8 +1,6 @@
 <h1 align="center"><b>Hi, I'm DaniVillalba03</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="right">
-  <iframe src="https://ruwix.com/widget/3d/" width="300" height="300" frameborder="0" style="border-radius: 8px;"></iframe>
-</p>
+<img align="right" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
