@@ -1,13 +1,15 @@
 <h1 align="center"><b>Hi, I'm DaniVillalba03</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
+<p align="right">
+  <iframe src="https://ruwix.com/widget/3d/" width="300" height="300" frameborder="0" style="border-radius: 8px;"></iframe>
+</p>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I love exploring new technologies and building fast solutions with software and hardware.  
-🎓 &nbsp;I'm currently studying Mechatronics Engineering.  
-🌱 &nbsp;I'm learning more about real-time systems, hardware design, and home automation.  
-✍️ &nbsp;In my spare time, I enjoy designing circuits and experimenting with no-code apps.  
+💡 &nbsp;I love exploring new technologies and building fast solutions with software and hardware.  
+🎓 &nbsp;I'm currently studying Mechatronics Engineering.  
+🌱 &nbsp;I'm learning more about real-time systems, hardware design, and home automation.  
+✍️ &nbsp;In my spare time, I enjoy designing circuits and experimenting with no-code apps.  
 💬 &nbsp;Feel free to reach out for collaboration, project ideas, or just to chat about tech.
 
 ---
@@ -25,6 +27,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danivillalba03/"><img src="https://img.shields.io/badge/-Daniel%20Villalba-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/danivillalba03/"><img src="https://img.shields.io/badge/-@danivillalba03-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/danivillalba03/"><img src="https://img.shields.io/badge/-Daniel%20Villalba-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/danivillalba03/"><img src="https://img.shields.io/badge/-@danivillalba03-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
